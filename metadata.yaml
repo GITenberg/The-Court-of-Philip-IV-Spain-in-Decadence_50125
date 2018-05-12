@@ -1,4 +1,8 @@
 _repo: The-Court-of-Philip-IV-Spain-in-Decadence_50125
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50125-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hume, Martin A. S. (Martin Andrew Sharp)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9628
     wikipedia: http://en.wikipedia.org/wiki/Martin_Sharp_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50125#The-Court-of-Philip-IV-Spain-in-Decadence
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
